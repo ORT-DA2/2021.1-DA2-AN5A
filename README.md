@@ -1,8 +1,8 @@
 # Clases
 
-* Zoom ID: 942 7731 8465
+* Zoom ID: 
 * [Foro de Tecnologia](https://aulas.ort.edu.uy/mod/forum/view.php?id=231726)
-* [GitHub: Cuentas](https://1drv.ms/x/s!AsRv3us8uF1Rg8JNRBvzcjCj0erZ3A?e=d13yAE)
+* [GitHub: Cuentas](https://docs.google.com/spreadsheets/d/1CJ-CVkpPyBV2EIVo_2SB9vU11cF6qOVYcZym9T0lHJo/edit?usp=sharing)
 
 ## 1) .NET Core WebApi
 
@@ -37,5 +37,5 @@
 
 ## Contacto
 
-* Email Santiago: [santiagomendezvarela@outlook.com](mailto:santiagomendezvarela@outlook.com)
-* Email Gonzalo: [gm68308@fi365.ort.edu.uy](mailto:gm68308@fi365.ort.edu.uy)
+* Email Matias (Guti): [gutierrez.matias@outlook.com](mailto:gutierrez.matias@outlook.com)
+* Email Juan Abal: [j.ignacioabal@gmail.com](mailto:j.ignacioabal@gmail.com)
