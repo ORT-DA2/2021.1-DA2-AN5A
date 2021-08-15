@@ -3,6 +3,7 @@
 * Zoom ID: 
 * [Foro de Tecnologia](https://aulas.ort.edu.uy/mod/forum/view.php?id=231726)
 * [GitHub: Cuentas](https://docs.google.com/spreadsheets/d/1CJ-CVkpPyBV2EIVo_2SB9vU11cF6qOVYcZym9T0lHJo/edit?usp=sharing)
+* [Carpeta de drive con cosas útiles](https://drive.google.com/drive/folders/1nD0zfiPyrpEDiYZE1kC9MRVDrOpmBUbd?usp=sharing)
 
 ## 1) .NET Core WebApi
 
